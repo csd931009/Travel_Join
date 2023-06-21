@@ -10,8 +10,8 @@
     </settings>
 
     <typeAliases>
-<!--     	<typeAlias type="com.app.dto.user.UserDto" alias="UserDto"/> -->
-<!--     	<typeAlias type="com.app.dto.user.UserDto" alias="UserDto"/> -->
+		<typeAlias type="com.app.dto.groupbuying.GroupBuyingDto" alias="GroupBuyingDto"/>
+
     </typeAliases>
 
 </configuration>

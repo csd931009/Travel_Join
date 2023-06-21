@@ -13,5 +13,8 @@
 	<h1>index</h1>
 	
 	<script type="text/javascript" src="${path}/js/test.js"></script>
+	
+	<a href="GB_MakeBoard">게시판작성 눌러봐</a>
+	<a href="GB_BulletinBoard">게시판 눌러봐</a>
 </body>
 </html>
