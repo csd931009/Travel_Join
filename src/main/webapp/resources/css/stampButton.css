@@ -1,0 +1,10 @@
+#stamp-button.off {
+  border-width:1px;
+  border-radius: 10px;
+}
+#stamp-button.on {
+  border-width:1px;
+  border-radius: 10px;
+  background-color: black;
+  color: white;
+}

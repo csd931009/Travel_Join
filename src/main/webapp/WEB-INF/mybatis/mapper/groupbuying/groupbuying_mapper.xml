@@ -7,7 +7,7 @@
 
 	<insert id="insert_GroupBuying" parameterType="GroupBuyingDto">
 		insert into GroupBuying_board
-		values ( GroupBuying_board_seq.NEXTVAL, #{title}, #{maintext} )
+		values ( GroupBuying_board_seq.NEXTVAL, #{title}, #{maintext}, 0 )
 	</insert>
 	
 	<select id="select_GroupBuying" resultType="GroupBuyingDto">

@@ -10,4 +10,5 @@ public class GroupBuyingDto {
 	int no;
 	String title;
 	String maintext;
+	String stamp;
 }
