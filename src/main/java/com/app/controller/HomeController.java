@@ -21,11 +21,11 @@ public class HomeController {
         return "reviewtest";
     }
     
-
     @GetMapping("/board")
     public String board() {
         return "board";
     }
+
 
 
 }

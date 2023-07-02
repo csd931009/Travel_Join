@@ -16,7 +16,7 @@ import javax.servlet.http.HttpSession;
 @Controller
 public class UserController {
 
-    @Autowired
+	@Autowired
     private UserService userService;
 
     @GetMapping("/register")
