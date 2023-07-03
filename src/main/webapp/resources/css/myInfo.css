@@ -218,3 +218,7 @@ label {
 input[type="file"] {
     display: none;
 }
+
+#texta{
+	margin-top: 20px;
+}
